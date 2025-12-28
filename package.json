@@ -14,8 +14,12 @@
       {
         "label": "J-Code",
         "uiTheme": "vs-dark",
-        "path": "./themes/jcode-theme.json"
+        "path": "./themes/j-code-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaomjbraga/jcode"
   }
 }
