@@ -1,3 +1,4 @@
+
 {
 "$schema": "vscode://schemas/color-theme",
 "name": "macOS Ventura Dark - Premium Refined",
@@ -153,7 +154,7 @@
 "foreground": "#5EEAD4"
 },
 "typeParameter": {
-"foreground": "#5EEAD4"
+"foreground": "#2DD4BF"
 },
 "class": {
 "foreground": "#2DD4BF"
@@ -177,7 +178,7 @@
 "foreground": "#FB923C"
 },
 "macro": {
-"foreground": "#FB923C"
+"foreground": "#A78BFA"
 },
 "variable": {
 "foreground": "#E8E8EA"
@@ -186,16 +187,16 @@
 "foreground": "#C0C0C5"
 },
 "namespace": {
-"foreground": "#A0A0A5"
+"foreground": "#C0C0C5"
 },
 "module": {
-"foreground": "#A0A0A5"
+"foreground": "#C0C0C5"
 },
 "comment": {
 "foreground": "#6B7280"
 },
 "operator": {
-"foreground": "#7A7A7F"
+"foreground": "#6E6E73"
 },
 "property": {
 "foreground": "#C0C0C5"
@@ -280,14 +281,14 @@
 "name": "Preprocessor Directives (C/C++)",
 "scope": ["keyword.control.directive", "entity.name.other.preprocessor.macro"],
 "settings": {
-"foreground": "#A78BFA"
+"foreground": "#A0A0A5"
 }
 },
 {
 "name": "Operator",
 "scope": ["keyword.operator", "keyword.operator.logical", "keyword.operator.arithmetic", "keyword.operator.assignment"],
 "settings": {
-"foreground": "#7A7A7F"
+"foreground": "#6E6E73"
 }
 },
 {
@@ -315,14 +316,14 @@
 "name": "Namespace / Module / Import",
 "scope": ["entity.name.namespace", "support.module", "keyword.control.import", "keyword.control.export", "keyword.control.from", "meta.import", "meta.export"],
 "settings": {
-"foreground": "#A0A0A5"
+"foreground": "#C0C0C5"
 }
 },
 {
 "name": "Decorator / Annotation",
 "scope": ["meta.decorator", "punctuation.decorator"],
 "settings": {
-"foreground": "#A78BFA"
+"foreground": "#A0A0A5"
 }
 },
 {
