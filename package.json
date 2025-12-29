@@ -1,8 +1,8 @@
 {
   "name": "j-code",
   "displayName": "J-Code",
-  "description": "Tema escuro minimalista e profissional para VSCode",
-  "version": "1.0.0",
+  "description": "Tema escuro minimalista voltado para quem fica codando por horas.",
+  "version": "1.1.0",
   "publisher": "joaomjbraga",
   "engines": {
     "vscode": "^1.80.0"

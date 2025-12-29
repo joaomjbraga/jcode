@@ -1,10 +1,9 @@
-
 {
 "$schema": "vscode://schemas/color-theme",
-"name": "macOS Ventura Dark - Premium Refined",
+"name": "J-code",
 "type": "dark",
-"author": "Inspirado no macOS Ventura - Versão Refinada Semântica",
-"semanticClass": "theme.macos.ventura.dark.premium.refined",
+"author": "João M J Braga",
+"semanticClass": "theme.jcode",
 "semanticHighlighting": true,
 "colors": {
 "focusBorder": "#5EEAD4",
@@ -352,6 +351,13 @@
 "scope": ["punctuation", "punctuation.separator", "punctuation.terminator", "meta.brace", "punctuation.section", "punctuation.section.embedded"],
 "settings": {
 "foreground": "#6E6E73"
+}
+},
+{
+"name": "HTML / JSX / TSX Text Content",
+"scope": ["text.html", "text.html.derivative", "meta.embedded.block.html text", "string.unquoted.html", "text.xml", "meta.jsx.children", "meta.embedded.expression.jsx", "source.jsx text", "source.tsx text", "text.plain", "text"],
+"settings": {
+"foreground": "#E8E8EA"
 }
 },
 {
