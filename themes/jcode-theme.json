@@ -1,8 +1,8 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Omni Vibrant - Clean Dark Enhanced",
+  "name": "jcode",
   "type": "dark",
-  "author": "Rocketseat + versão vibrante aprimorada para legibilidade",
+  "author": "João M J Braga",
   "semanticHighlighting": true,
   "colors": {
     "foreground": "#E1E1E6",
