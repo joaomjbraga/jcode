@@ -1,6 +1,6 @@
 # J-Code Theme for VS Code
 
-![J-Code Theme Preview](.github/v1.1.2.png)
+![J-Code Theme Preview](.github/v1.1.1.png)
 
 O **J-Code** é um tema escuro que criei para facilitar meu próprio uso diário no Visual Studio Code.
 Depois de testar vários temas, resolvi ajustar um que fosse mais previsível, confortável e fácil de ler ao longo do tempo.
